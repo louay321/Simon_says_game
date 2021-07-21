@@ -1,4 +1,6 @@
-# this web app is a simple game project implementing jquery
+# Simon Says
+
+## this web app is a simple game project implementing jquery
 
 ## rules
 
